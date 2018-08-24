@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "clear"
+    "test": "clear",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
